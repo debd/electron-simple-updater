@@ -50,7 +50,8 @@
     "typescript": "^3.3.4000"
   },
   "dependencies": {
-    "httpreq": "0.4.24",
-    "semver": "*"
+    "httpreq": "debd/node-httpreq",
+    "semver": "*",
+    "url-parse": "^1.4.7"
   }
 }
